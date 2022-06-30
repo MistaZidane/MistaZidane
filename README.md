@@ -43,9 +43,9 @@ As a developer who practices Design Thinking 💡, I build for Customers, not fo
 
 ### GitHub stats
 
-
+<!--
 [![Mistazidane's GitHub stats](https://github-readme-stats.vercel.app/api?username=mistazidane&show_icons=true)](https://github.com/mistazidane/github-readme-stats)
-
+-->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mistazidane&layout=compact)](https://github.com/mistazidane/github-readme-stats)
