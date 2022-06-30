@@ -18,7 +18,7 @@ As a developer who practices Design Thinking 💡, I build for Customers, not fo
 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-solidity-563D7C?style=flat-square&logo=solidity"/>
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript"/>
 <img src="https://img.shields.io/badge/-angular-red?style=flat-square&logo=angular"/>
@@ -27,7 +27,7 @@ As a developer who practices Design Thinking 💡, I build for Customers, not fo
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/-flutter-teal?style=flat-square&logo=flutter"/>
 <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"/>
 </p>
 <p align="center">Feel free reaching out to me at following platforms:</p>
