@@ -53,7 +53,7 @@ As a developer who practices Design Thinking 💡, I build for Customers, not fo
 
 
 
-<p align="center"> 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎  ❤️  𝚋𝚢 contributing on 𝚜𝚘𝚖𝚎  𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜! Proud Cameroonian </p>
+<p align="center"> 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎  ❤️  𝚋𝚢 contributing on 𝚜𝚘𝚖𝚎  𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜! Proud Cameroonian. </p>
 
 
 <!--
@@ -61,7 +61,7 @@ As a developer who practices Design Thinking 💡, I build for Customers, not fo
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working  on many...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
