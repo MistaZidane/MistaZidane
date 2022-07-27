@@ -1,7 +1,7 @@
   
 <h3 align="center"> Hey 👋, I'm Mista Zidane!</h3>
 
-<h3 align="center">About Me!</h3>
+<h3 align="center">About Me! </h3>
 <p align="center">
 
 
@@ -9,7 +9,7 @@ As a developer who practices Design Thinking 💡, I build for Customers, not fo
 </p>
 
 -  🤝 I’m looking to collaborate on more  projects
-- 💬 Ask me about anything, I love to answer!
+- 💬 Ask me about anything, I would love to answer!
 - 📫 Email me at [mistazidane@gmail.com](mailto:mistazidane@gmail.com).
 - 💻 My portfolio [mistazidane.com](https://mistazidane.com).
 
