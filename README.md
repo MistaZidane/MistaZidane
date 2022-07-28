@@ -10,8 +10,8 @@ As a developer who practices Design Thinking 💡, I build for Customers, not fo
 
 -  🤝 I’m looking to collaborate on more  projects
 - 💬 Ask me about anything, I would love to answer!
-- 📫 Email me at [mistazidane@gmail.com](mailto:mistazidane@gmail.com).
-- 💻 My portfolio [mistazidane.com](https://mistazidane.com).
+- 📫 Email me at [mistazidane@gmail.com](mailto:mistazidane@gmail.com)
+- 💻 My portfolio [mistazidane.com](https://mistazidane.com)
 
 <h2 align="center">Tech Stack</h2> 
 <p align="center">
@@ -53,7 +53,7 @@ As a developer who practices Design Thinking 💡, I build for Customers, not fo
 
 
 
-<p align="center"> 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎  ❤️  𝚋𝚢 contributing on 𝚜𝚘𝚖𝚎  𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜! Proud Cameroonian. </p>
+<p align="center">𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎  ❤️  𝚋𝚢 contributing on 𝚜𝚘𝚖𝚎  𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜! Proud Cameroonian. </p>
 
 
 <!--
