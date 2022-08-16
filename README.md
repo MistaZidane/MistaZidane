@@ -3,11 +3,8 @@
 
 <h3 align="center">About Me👨‍💻! </h3>
 <p align="center">
-
-
 As a developer who practices Design Thinking 💡, I build for Customers, not for technologies. I believe that software development 🕸️ is not a complex process if we take the time to complete the analysis and design of the project ✨ to be worked on.
 </p>
-
 -  🤝 I’m looking to collaborate on more  projects
 - 💬 Ask me about anything, I would love to answer!
 - 📫 Email me at [mistazidane@gmail.com](mailto:mistazidane@gmail.com)
