@@ -35,9 +35,6 @@ As a developer who practices Design Thinking 💡, I build for Customers, not fo
 <div align="center">
 
 </p>
-
-
-
 ### GitHub stats
 
 <!--
