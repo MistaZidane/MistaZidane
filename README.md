@@ -1,6 +1,5 @@
   
 <h3 align="center"> Hey 👋, I'm Mista Zidane!</h3>
-
 <h3 align="center">About Me👨‍💻! </h3>
 <p align="center">
 As a developer who practices Design Thinking 💡, I build for Customers, not for technologies. I believe that software development 🕸️ is not a complex process if we take the time to complete the analysis and design of the project ✨ to be worked on.
