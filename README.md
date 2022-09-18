@@ -34,7 +34,8 @@ As a developer who practices Design Thinking 💡, I build for Customers, not fo
 <div align="center">
 
 </p>
-### GitHub stats
+
+<p align="center"> GitHub stats</p>
 
 <!--
 [![Mistazidane's GitHub stats](https://github-readme-stats.vercel.app/api?username=mistazidane&show_icons=true)](https://github.com/mistazidane/github-readme-stats)
