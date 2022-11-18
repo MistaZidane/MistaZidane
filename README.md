@@ -42,7 +42,7 @@ As a developer who practices Design Thinking 💡, I build for Customers, not fo
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mistazidane&layout=compact)](https://github.com/mistazidane/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mistazidane"/>
 
 
 
