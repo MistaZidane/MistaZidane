@@ -42,7 +42,7 @@ As a developer who practices Design Thinking 💡, I build for Customers, not fo
 -->
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mistazidane&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mistazidane&hide=css&layout=compact"/>
 
 
 
