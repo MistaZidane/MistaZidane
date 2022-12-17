@@ -25,6 +25,7 @@ As a developer who practices Design Thinking 💡, I build for Customers, not fo
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-flutter-teal?style=flat-square&logo=flutter"/>
 <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"/>
+  <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=vue"/>
 </p>
 <p align="center">Feel free reaching out to me at following platforms:</p>
 <p align="center">
