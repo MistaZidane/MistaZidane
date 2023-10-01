@@ -7,7 +7,7 @@ As a developer who practices Design Thinking 💡, I build for Customers, not fo
 -  🤝 I’m looking to collaborate on more  projects
 - 💬 Ask me about anything, I would love to answer!
 - 📫 Email me at [mistazidane@gmail.com](mailto:mistazidane@gmail.com)
-- 💻 My portfolio [](https://mistazidane.com)
+- 💻 My portfolio [](https://iamzidane.com)
 
 <h2 align="center">Tech Stack</h2> 
 <p align="center">
